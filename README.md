@@ -21,3 +21,10 @@ I would highly suggest that you make your own cheatsheets as it will help your l
 2. DSA2102 - Essential Data Analytics Tools: Numerical Computation
 3. EC2101 - Microeconomic Analysis I
 4. EC2102 - Macroeconomic Analysis I
+
+### AY22/23 Sem 1
+1. CS2102 - Database Systems
+2. CS2030 - Programming Methodology II
+3. DSA3102 - Essential Data Analytics Tools: Convex Optimisation
+4. DSA4211 - High-Dimensional Statistical Analysis
+5. ST4231 - Computer Intensive Statistical Analysis
