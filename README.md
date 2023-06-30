@@ -15,3 +15,9 @@ I would highly suggest that you make your own cheatsheets as it will help your l
 2. DSA2101 - Essential Data Analytics Tools: Data Visualisation
 3. ST2132 - Mathematical Statistics
 4. ST3131 - Regression Analysis
+
+### AY21/22 Sem 2
+1. CS3244 - Machine Learning
+2. DSA2102 - Essential Data Analytics Tools: Numerical Computation
+3. EC2101 - Microeconomic Analysis I
+4. EC2102 - Macroeconomic Analysis I
