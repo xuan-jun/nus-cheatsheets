@@ -28,3 +28,8 @@ I would highly suggest that you make your own cheatsheets as it will help your l
 3. DSA3102 - Essential Data Analytics Tools: Convex Optimisation
 4. DSA4211 - High-Dimensional Statistical Analysis
 5. ST4231 - Computer Intensive Statistical Analysis
+
+### AY22/23 Sem 2
+1. CS3243 - Introduction to Artifical Intelligence
+2. CS4225 - Big Data Systems in Data Science
+3. CS4243 - Computer Vision and Pattern Recognition
