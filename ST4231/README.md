@@ -1,6 +1,7 @@
 ## ST4231: Computer Intensive Statistical Methods
 
 Semester Taken: AY22/23 Sem 1
+
 Taught By: Li Cheng
 
 **Topics Covered:**

@@ -1,6 +1,7 @@
 ## CS2102: Database Systems
 
-Semester Taken: AY22/23 Sem I
+Semester Taken: AY22/23 Sem 1
+
 Taught By: Adi Yoga Sidi Prabawa, Christian Von Der Weth, Stephane Bressan
 
 **Topics Covered:**

@@ -1,6 +1,7 @@
 ## CS3244: Machine Learning
 
 Semester Taken: AY21/22 Sem 2
+
 Taught By: Bryan Low and Daren Ler
 
 **Topics Covered:**

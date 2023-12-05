@@ -1,6 +1,7 @@
 ## DSA3102: Essential Data Analytics Tools: Convex Optimisation
 
 Semester Taken: AY22/23 Sem 1
+
 Taught By: Lam Xin Yee
 
 **Topics Covered:**

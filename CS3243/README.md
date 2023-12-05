@@ -1,6 +1,7 @@
-## CS3243: Introduction to Artifical Intelligence
+## CS3243: Introduction to Artificial Intelligence
 
 Semester Taken: AY22/23 Sem 2
+
 Taught By: Daren Ler
 
 **Topics Covered:**

@@ -1,6 +1,7 @@
 ## EC2101: Microeconomic Analysis I
 
 Semester Taken: AY21/22 Sem 2
+
 Taught By: Zhang Yang
 
 **Topics Covered:**

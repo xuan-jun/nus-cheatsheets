@@ -1,9 +1,6 @@
 # NUS Cheatsheets
 
-This is a collection of cheatsheets or summary notes that I have made over my course of studies in NUS. The quality of the cheatsheets are probably not the best so use it at your own discretion. I have also listed down the relevant semesters that I have taken it in so you can have a look at how relevant the content will be. Quality of the cheatsheets also probably got better as the semesters progressed.
-
-I would highly suggest that you make your own cheatsheets as it will help your learning much better.
-
+This is a collection of cheatsheets and summary notes that I have made over my course of studies as an undergraduate in NUS. 
 
 ## Available Modules
 
@@ -30,6 +27,6 @@ I would highly suggest that you make your own cheatsheets as it will help your l
 5. <a href="./ST4231/" target="_blank">ST4231 - Computer Intensive Statistical Analysis</a>
 
 ### AY22/23 Sem 2
-1. <a href="./CS3243/" target="_blank">CS3243 - Introduction to Artifical Intelligence</a>
+1. <a href="./CS3243/" target="_blank">CS3243 - Introduction to Artificial Intelligence</a>
 2. <a href="./CS4225/" target="_blank">CS4225 - Big Data Systems in Data Science</a>
 3. <a href="./CS4243/" target="_blank">CS4243 - Computer Vision and Pattern Recognition</a>

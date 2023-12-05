@@ -1,6 +1,7 @@
 ## ST2132: Mathematical Statistics
 
 Semester Taken: AY21/22 Sem 1
+
 Taught By: Gan Fah Fatt
 
 **Topics Covered:**

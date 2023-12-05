@@ -1,6 +1,7 @@
 ## DSA2102: Essential Data Analysis Tools: Numerical Computation
 
 Semester Taken: AY21/22 Sem 2
+
 Taught By: Lam Xin Yee
 
 **Topics Covered:**

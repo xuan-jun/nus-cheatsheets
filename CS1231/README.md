@@ -1,6 +1,7 @@
 ## CS1231: Discrete Structures
 
 Semester Taken: AY21/22 Sem 1
+
 Taught By: Tay Yong Chiang & Lawrence Wong Tin Lok
 
 **Topics Covered:**

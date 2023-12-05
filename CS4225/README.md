@@ -1,6 +1,7 @@
 ## CS4225: Big Data Systems in Data Science
 
 Semester Taken: AY22/23 Sem 2
+
 Taught By: He Bingsheng & Ai Xin
 
 **Topics Covered:**

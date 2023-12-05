@@ -1,6 +1,7 @@
 ## ST3131: Regression Analysis
 
 Semester Taken: AY21/22 Sem 1
+
 Taught By: Chen Zehua
 
 **Topics Covered:**

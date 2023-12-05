@@ -1,6 +1,7 @@
 ## DSA4211: High-Dimensional Statistical Analysis
 
 Semester Taken: AY22/23 Sem 1
+
 Taught By: Lin Zhenhua
 
 **Topics Covered:**

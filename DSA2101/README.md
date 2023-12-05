@@ -1,6 +1,7 @@
 ## DSA2101: Essential Data Analytics Tools: Data Visualisation
 
 Semester Taken: AY21/22 Sem 1
+
 Taught By: Vik Gopal
 
 **Topics Covered:**

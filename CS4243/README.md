@@ -1,6 +1,7 @@
 ## CS4243: Computer Vision and Pattern Recognition
 
 Semester Taken: AY22/23 Sem 2
+
 Taught By: Angela Yao
 
 **Topics Covered:**

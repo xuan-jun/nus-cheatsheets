@@ -1,6 +1,7 @@
 ## ST2131: Probability
 
 Semester Taken: AY20/21 Sem 2
+
 Taught By: Gan Fah Fatt & Chan Yiu Man
 
 **Topics Covered:**

@@ -1,6 +1,7 @@
 ## EC2102: Macroeconomic Analysis I
 
 Semester Taken: AY21/22 Sem 2
+
 Taught By: Wong Wei Kang
 
 **Topics Covered:**

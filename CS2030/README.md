@@ -1,6 +1,7 @@
 ## CS2030: Programming Methodology II
 
-Semester Taken: AY22/23 Sem I
+Semester Taken: AY22/23 Sem 1
+
 Taught By: Henry Chia
 
 **Topics Covered:**
