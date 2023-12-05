@@ -30,3 +30,6 @@ This is a collection of cheatsheets and summary notes that I have made over my c
 1. <a href="./CS3243/" target="_blank">CS3243 - Introduction to Artificial Intelligence</a>
 2. <a href="./CS4225/" target="_blank">CS4225 - Big Data Systems in Data Science</a>
 3. <a href="./CS4243/" target="_blank">CS4243 - Computer Vision and Pattern Recognition</a>
+
+### AY23/24 Sem 1
+1. <a href="./ST4253/" target="_blank">ST4253 - Applied Time Series Analysis</a>
